@@ -1,7 +1,8 @@
 import styled, { css } from "styled-components";
 
 const baseMedia = css`
-  margin: 20px 0;
+  width:300px;
+  height:300px;
 `;
 export const StyledVideo = styled.video`
   ${baseMedia}
